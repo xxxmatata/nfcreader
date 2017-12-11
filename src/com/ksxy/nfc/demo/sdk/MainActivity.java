@@ -45,9 +45,9 @@ public class MainActivity extends Activity {
 	/**
 	 * jar使用
 	 */
-	private static  String appKey = "941c9b37d4dd4e569ff0320b21d9071c";
+	private static  String appKey = "046e1fc6b2ff4bb6a6eabc2946203cae";
 	
-	private static String appSecret = "8eb5c020856040f7be7e52cff4ce3a77";
+	private static String appSecret = "8436165e2c064e09b19b31c65c8d8a8b";
 	
 	private Context context = null;
 	
